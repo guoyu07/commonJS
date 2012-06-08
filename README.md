@@ -8,8 +8,8 @@ step 1. include jQuery js file in your html head.(you can download jQuery at her
 step 2. include common.js file in your html head.
 
 your code may be like this:
-<script type="text/javascript" src="${baseurl}/js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="${baseurl}/js/common.js"></script>
+&lt;script type="text/javascript" src="${baseurl}/js/jquery-1.7.2.min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="${baseurl}/js/common.js"&gt;&lt;/script&gt;
 
 3.Directory 
 |__src    ---> source code
